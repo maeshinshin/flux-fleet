@@ -1,0 +1,12 @@
+[[commands]]
+package = "sops"
+
+[[commands]]
+name = "flux"
+package = "fluxcd"
+
+[[commands]]
+package = "kubectl"
+
+[[commands]]
+package = "k9s"
